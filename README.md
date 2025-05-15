@@ -1,8 +1,8 @@
 
 # 🖼️ **Digital Watermarking using DCT: Manual vs Built-in Approach** 
-
 **Author:** [Dipanshu Modi](https://github.com/dipanshumodi31)  
 **Skills:** Python, Pandas, Matplotlib, OpenCV, NumPy, Image Processing, DCT, PSNR/SSIM, Visualization 
+
 ---
 
 ## 🚀 **Project Overview**  
