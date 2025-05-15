@@ -89,7 +89,7 @@ This project explores **digital image watermarking using the Discrete Cosine Tra
 
 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/https://github.com/dipanshumodi31/DCT-Based-Digital-Watermarking-A-Comparative-Study
+git clone https://github.com/dipanshumodi31/DCT-Based-Digital-Watermarking-A-Comparative-Study
 ```
 
 2️⃣ Install required Python packages  
