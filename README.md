@@ -77,11 +77,14 @@ This project explores **digital image watermarking using the Discrete Cosine Tra
 
 ### Watermarked Outputs  
 - Built-in and manual methods displayed side-by-side
+![Manual Output](output/dctdomainmanual.png)
+![Built-in Output](output/dctdomainbuiltin.png)
 
 ### Difference Analysis  
 - Pixel-wise error between:  
   - Original vs Built-in  
   - Original vs Manual
+![Difference Analysis](output/differenceanalysis.png)
 
 ---
 
